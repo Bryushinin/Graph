@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589140971 source:c:\users\79194\desktop\ \Инфа\graph\graph\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	<cstdlib>
+
